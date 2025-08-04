@@ -1,3 +1,7 @@
+npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
+npm install @fontsource/roboto
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
